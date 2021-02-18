@@ -116,5 +116,6 @@ body {
     filter: blur(5px);
 }
 .card_bottom:hover #password {
+    transition: 2s;
     filter: none;
 }
