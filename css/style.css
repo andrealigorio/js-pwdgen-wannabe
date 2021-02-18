@@ -115,7 +115,7 @@ body {
     text-align: center;
     filter: blur(5px);
 }
-.card_bottom:hover #password {
+.lock:hover + .password_box #password {
     transition: 2s;
     filter: none;
 }
